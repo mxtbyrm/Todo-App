@@ -1,5 +1,7 @@
 # Todo App
 
+![](https://www.youtube.com/watch?v=JBUEQ3GKhLo)
+
 This todo app is a simple application that allows users to add and delete tasks. It is built using React and
 TypeScript. This app is not use any of the ui libraries like Material UI, Chakra UI, etc. It is styled using Tailwind
 CSS.
